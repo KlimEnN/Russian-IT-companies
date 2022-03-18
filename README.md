@@ -12,6 +12,6 @@
 
 ### Kinarium LLC
 This company is based in Russia 
-https://kinorium.com 
-https://apps.apple.com/app/id1093171715 
+https://kinorium.com  
+https://apps.apple.com/app/id1093171715   
 https://play.google.com/store/apps/details?id=com.kinorium.kinoriumapp 
