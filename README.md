@@ -10,7 +10,7 @@
 
 # List of blood companies
 
-### Kinarium LLC
+### Kinorium LLC
 This company is based in Russia and has not condemned the actions of its government
 
 https://kinorium.com  
