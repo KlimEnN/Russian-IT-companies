@@ -17,7 +17,7 @@ https://kinorium.com
 https://apps.apple.com/app/id1093171715   
 https://play.google.com/store/apps/details?id=com.kinorium.kinoriumapp 
 
-### Bitrix 
+### Bitrix24
 https://www.bitrix24.ru 
 
 ### Miro 
