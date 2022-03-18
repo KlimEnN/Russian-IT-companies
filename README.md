@@ -11,7 +11,8 @@
 # List of blood companies
 
 ### Kinarium LLC
-This company is based in Russia 
+This company is based in Russia and has not condemned the actions of its government
+
 https://kinorium.com  
 https://apps.apple.com/app/id1093171715   
 https://play.google.com/store/apps/details?id=com.kinorium.kinoriumapp 
