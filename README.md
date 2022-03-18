@@ -31,3 +31,6 @@ https://uk.bookmate.com
 
 ### myBook
 mybook.ru
+
+### ivi
+https://www.ivi.ru 
